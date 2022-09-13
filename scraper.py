@@ -16,6 +16,7 @@ def get_data():
                 info = str(d.p.contents)
                 if 'datasets/' in info:
                     new_dataset["Name"] = str(d.p.contents[0].contents[0].contents[0])
+                    print(d.p.contents[0].contents[0]['href'])
                     new_dataset["Link"] = 'https://archive.ics.uci.edu/ml/' + str(d.p.contents[0].contents[0]['href'])
                 elif 'Name' in new_dataset:
                     content = str(d.p.contents[0])
