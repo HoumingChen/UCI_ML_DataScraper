@@ -1,34 +1,70 @@
 ,Name,Link,Data_Types,Default_Task,Attribute_Types,Instances,Attributes,Year
+14,Breast Cancer Wisconsin (Original),https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29,Multivariate,Classification,Integer,699.0,10.0,1992
 15,Breast Cancer Wisconsin (Prognostic),https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Prognostic%29,Multivariate,"Classification, Regression",Real,198.0,34.0,1995
 16,Breast Cancer Wisconsin (Diagnostic),https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29,Multivariate,Classification,Real,569.0,32.0,1995
 38,Ecoli,https://archive.ics.uci.edu/ml/datasets/Ecoli,Multivariate,Classification,Real,336.0,8.0,1996
 41,Glass Identification,https://archive.ics.uci.edu/ml/datasets/Glass+Identification,Multivariate,Classification,Real,214.0,10.0,1987
+42,Haberman's Survival,https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival,Multivariate,Classification,Integer,306.0,3.0,1999
+50,Ionosphere,https://archive.ics.uci.edu/ml/datasets/Ionosphere,Multivariate,Classification,"Integer, Real",351.0,34.0,1989
 51,Iris,https://archive.ics.uci.edu/ml/datasets/Iris,Multivariate,Classification,Real,150.0,4.0,1988
+60,Lung Cancer,https://archive.ics.uci.edu/ml/datasets/Lung+Cancer,Multivariate,Classification,Integer,32.0,56.0,1992
+93,SPECTF Heart,https://archive.ics.uci.edu/ml/datasets/SPECTF+Heart,Multivariate,Classification,Integer,267.0,44.0,2001
+106,Wine,https://archive.ics.uci.edu/ml/datasets/Wine,Multivariate,Classification,"Integer, Real",178.0,13.0,1991
+146,Statlog (Vehicle Silhouettes),https://archive.ics.uci.edu/ml/datasets/Statlog+%28Vehicle+Silhouettes%29,Multivariate,Classification,Integer,946.0,18.0,
 148,"Connectionist Bench (Sonar, Mines vs. Rocks)",https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29,Multivariate,Classification,Real,208.0,60.0,
+158,Mammographic Mass,https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass,Multivariate,Classification,Integer,961.0,6.0,2007
 171,Parkinsons,https://archive.ics.uci.edu/ml/datasets/Parkinsons,Multivariate,Classification,Real,197.0,23.0,2008
 173,Blood Transfusion Service Center,https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center,Multivariate,Classification,Real,748.0,5.0,2008
 188,Breast Tissue,https://archive.ics.uci.edu/ml/datasets/Breast+Tissue,Multivariate,Classification,Real,106.0,10.0,2010
 204,Vertebral Column,https://archive.ics.uci.edu/ml/datasets/Vertebral+Column,Multivariate,Classification,Real,310.0,6.0,2011
+217,ILPD (Indian Liver Patient Dataset),https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29,Multivariate,Classification,"Integer, Real",583.0,10.0,2012
 227,seeds,https://archive.ics.uci.edu/ml/datasets/seeds,Multivariate,"Classification, Clustering",Real,210.0,7.0,2012
+233,Energy efficiency,https://archive.ics.uci.edu/ml/datasets/Energy+efficiency,Multivariate,"Classification, Regression","Integer, Real",768.0,8.0,2012
 235,Fertility,https://archive.ics.uci.edu/ml/datasets/Fertility,Multivariate,"Classification, Regression",Real,100.0,10.0,2013
 243,Climate Model Simulation Crashes,https://archive.ics.uci.edu/ml/datasets/Climate+Model+Simulation+Crashes,Multivariate,Classification,Real,540.0,18.0,2013
+248,User Knowledge Modeling,https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling,Multivariate,"Classification, Clustering",Integer,403.0,5.0,2013
 252,ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines),https://archive.ics.uci.edu/ml/datasets/ser+Knowledge+Modeling+Data+%28Students%27+Knowledge+Levels+on+DC+Electrical+Machines%29,Multivariate,Classification,Real,403.0,5.0,2013
+266,Thoracic Surgery Data,https://archive.ics.uci.edu/ml/datasets/Thoracic+Surgery+Data,Multivariate,Classification,"Integer, Real",470.0,17.0,2013
 276,Leaf,https://archive.ics.uci.edu/ml/datasets/Leaf,Multivariate,Classification,Real,340.0,16.0,2014
+280,Wholesale customers,https://archive.ics.uci.edu/ml/datasets/Wholesale+customers,Multivariate,"Classification, Clustering",Integer,440.0,8.0,2014
 286,StoneFlakes,https://archive.ics.uci.edu/ml/datasets/StoneFlakes,Multivariate,"Classification, Clustering, Causal-Discovery",Real,79.0,8.0,2014
+287,Tennis Major Tournament Match Statistics,https://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics,Multivariate,"Classification, Regression, Clustering","Integer, Real",127.0,42.0,2014
+307,Student Performance,https://archive.ics.uci.edu/ml/datasets/Student+Performance,Multivariate,"Classification, Regression",Integer,649.0,33.0,2014
 323,Chronic_Kidney_Disease,https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease,Multivariate,Classification,Real,400.0,25.0,2015
 337,Mesothelioma‚Äôs disease data set ,https://archive.ics.uci.edu/ml/datasets/Mesothelioma%E2%80%99s+disease+data+set+,Multivariate,Classification,Real,324.0,34.0,2016
 340,GPS Trajectories,https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories,Multivariate,"Classification, Regression",Real,163.0,15.0,2016
 343,Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson‚Äôs Disease,https://archive.ics.uci.edu/ml/datasets/Improved+Spiral+Test+Using+Digitized+Graphics+Tablet+for+Monitoring+Parkinson%E2%80%99s+Disease,Multivariate,"Classification, Regression, Clustering",Real,40.0,7.0,2016
+367,Cervical cancer (Risk Factors),https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29,Multivariate,Classification,"Integer, Real",858.0,36.0,2017
 368,Quality Assessment of Digital Colposcopies,https://archive.ics.uci.edu/ml/datasets/Quality+Assessment+of+Digital+Colposcopies,Multivariate,Classification,Real,287.0,69.0,2017
+376,Early biomarkers of Parkinsonís disease based on natural connected speech,https://archive.ics.uci.edu/ml/datasets/Early+biomarkers+of+Parkinson%92s+disease+based+on+natural+connected+speech,Multivariate,"Classification, Regression","Integer, Real",130.0,65.0,2017
+379,Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet,https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet,Multivariate,"Classification, Regression, Clustering",Integer,77.0,7.0,2017
+403,Autistic Spectrum Disorder Screening Data for Children  ,https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++,Multivariate,Classification,Integer,292.0,21.0,2017
+404,Autistic Spectrum Disorder Screening Data for Adolescent   ,https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Adolescent+++,Multivariate,Classification,Integer,104.0,21.0,2017
+407,HCC Survival,https://archive.ics.uci.edu/ml/datasets/HCC+Survival,Multivariate,Classification,"Integer, Real",165.0,49.0,2017
+408,CSM (Conventional and Social Media Movies) Dataset 2014 and 2015,https://archive.ics.uci.edu/ml/datasets/CSM+%28Conventional+and+Social+Media+Movies%29+Dataset+2014+and+2015,Multivariate,"Classification, Regression",Integer,217.0,12.0,2017
 414,OCT data & Color Fundus Images of Left & Right Eyes,https://archive.ics.uci.edu/ml/datasets/OCT+data+%26+Color+Fundus+Images+of+Left+%26+Right+Eyes,Multivariate,Classification,Real,50.0,2.0,2016
+431,Optical Interconnection Network ,https://archive.ics.uci.edu/ml/datasets/Optical+Interconnection+Network+,Multivariate,"Classification, Regression","Integer, Real",640.0,10.0,2018
+433,Breast Cancer Coimbra,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra,Multivariate,Classification,Integer,116.0,10.0,2018
 457,Audit Data,https://archive.ics.uci.edu/ml/datasets/Audit+Data,Multivariate,Classification,Real,777.0,18.0,2018
 476,Alcohol QCM Sensor Dataset,https://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Dataset,Multivariate,"Classification, Regression, Clustering",Real,125.0,8.0,2019
 497,Shoulder Implant X-Ray Manufacturer Classification,https://archive.ics.uci.edu/ml/datasets/Shoulder+Implant+X-Ray+Manufacturer+Classification,Multivariate,Classification,Real,597.0,1.0,2020
 498,Speaker Accent Recognition,https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition,Multivariate,Classification,Real,329.0,12.0,2020
+499,Heart failure clinical records,https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records,Multivariate,"Classification, Regression, Clustering","Integer, Real",299.0,13.0,2020
+503,Exasens,https://archive.ics.uci.edu/ml/datasets/Exasens,Multivariate,"Classification, Clustering",Integer,399.0,4.0,2020
+508,Amphibians,https://archive.ics.uci.edu/ml/datasets/Amphibians,Multivariate,Classification,"Integer, Real",189.0,23.0,2020
 527,Algerian Forest Fires Dataset  ,https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++,Multivariate,"Classification, Regression",Real,244.0,12.0,2019
 538,Monolithic Columns in Troad and Mysia Region,https://archive.ics.uci.edu/ml/datasets/Monolithic+Columns+in+Troad+and+Mysia+Region,Multivariate,Classification,Real,11.0,19.0,2020
+545,Bone marrow transplant: children,https://archive.ics.uci.edu/ml/datasets/Bone+marrow+transplant%3A+children,Multivariate,"Classification, Regression","Integer, Real",187.0,39.0,2020
+546,Exasens,https://archive.ics.uci.edu/ml/datasets/Exasens,Multivariate,"Classification, Clustering",Integer,399.0,4.0,2020
+548,Refractive errors,https://archive.ics.uci.edu/ml/datasets/Refractive+errors,Multivariate,Classification,Integer,467.0,79.0,2020
 549,Shoulder Implant X-Ray Manufacturer Classification,https://archive.ics.uci.edu/ml/datasets/Shoulder+Implant+X-Ray+Manufacturer+Classification,Multivariate,Classification,Real,597.0,1.0,2020
+551,HCV data,https://archive.ics.uci.edu/ml/datasets/HCV+data,Multivariate,"Classification, Clustering","Integer, Real",615.0,14.0,2020
 563,Chemical Composition of Ceramic Samples,https://archive.ics.uci.edu/ml/datasets/Chemical+Composition+of+Ceramic+Samples,Multivariate,"Classification, Clustering",Real,88.0,19.0,2019
 570,Monolithic Columns in Troad and Mysia Region,https://archive.ics.uci.edu/ml/datasets/Monolithic+Columns+in+Troad+and+Mysia+Region,Multivariate,Classification,Real,11.0,19.0,2020
 576,Wheat kernels,https://archive.ics.uci.edu/ml/datasets/Wheat+kernels,Multivariate,Classification,Real,314.0,15.0,2020
+578,Multi-view Brain Networks,https://archive.ics.uci.edu/ml/datasets/Multi-view+Brain+Networks,Multivariate,"Classification, Clustering",Integer,70.0,70.0,2020
+597,Raisin Dataset,https://archive.ics.uci.edu/ml/datasets/Raisin+Dataset,Multivariate,Classification,"Integer, Real",900.0,8.0,2021
+600,Non verbal tourists data,https://archive.ics.uci.edu/ml/datasets/Non+verbal+tourists+data,Multivariate,"Classification, Clustering","Integer, Real",73.0,22.0,2021
+603,Higher Education Students Performance Evaluation Dataset,https://archive.ics.uci.edu/ml/datasets/Higher+Education+Students+Performance+Evaluation+Dataset,Multivariate,Classification,Integer,145.0,33.0,2021
 604,Risk Factor prediction of Chronic Kidney Disease,https://archive.ics.uci.edu/ml/datasets/Risk+Factor+prediction+of+Chronic+Kidney+Disease,Multivariate,"Classification, Regression",Real,202.0,29.0,2021
+618,Turkish Music Emotion Dataset,https://archive.ics.uci.edu/ml/datasets/Turkish+Music+Emotion+Dataset,Multivariate,Classification,"Integer, Real",400.0,50.0,2020
